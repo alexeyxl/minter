@@ -7,7 +7,6 @@
     "PROTECTION_KEY" : "",
     "RU" : {
       "name": "Monster Node",
-      "logo": 'https://github.com/alexeyxl/minter/raw/main/validators/img/Mp46d3d6afe0084fcf530b03d1f4427e516a1cb4ec542640bcbc84c2c4b4f53c13.png',
       "sites": {
         "web2" :"https://mnst.club",
       },
@@ -19,7 +18,6 @@
     }
     "EN" : {
       "name": "Monster Node",
-      "logo": './img/Mp46d3d6afe0084fcf530b03d1f4427e516a1cb4ec542640bcbc84c2c4b4f53c13',
       "sites": {
         "web2" :"https://mnst.club",
       },

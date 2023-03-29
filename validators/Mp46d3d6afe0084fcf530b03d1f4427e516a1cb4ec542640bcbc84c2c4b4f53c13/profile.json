@@ -1,0 +1,28 @@
+{ 
+  "DEFAULT" : "RU",
+  "ALTERNATIVE" : ["EN"]
+  "RU" : {
+    "name": "Monster Node",
+    "logo": 'logo.jpeg',
+    "sites": {
+       "web2" :"https://mnst.club",
+     },
+    "contacts": {
+        "telegram": "@monsternode",
+        "email": "admin@mnst.club"
+    },
+    "description": "Первая публичная мастернода сети Minter от сообщества Monster's Club.",
+  },
+  "EN" : {
+    "name": "Monster Node",
+    "logo": 'logo.jpeg',
+    "sites": {
+       "web2" :"https://mnst.club",
+     },
+    "contacts": {
+        "telegram": "@monsternode",
+        "email": "admin@mnst.club"
+    },
+    "description": "The first public masternode of the Minter network by the Monster's Club community.",
+  }
+}

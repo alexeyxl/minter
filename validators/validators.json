@@ -1,4 +1,4 @@
-"validators" :{
+{
     "Mp46d3d6afe0084fcf530b03d1f4427e516a1cb4ec542640bcbc84c2c4b4f53c13" :{
       "name":"Monster Node",
       "DEFAULT" : "RU",
@@ -27,4 +27,4 @@
         "description": "The first public masternode of the Minter network by the Monster's Club community."
       }
     },
-  }
+}

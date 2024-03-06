@@ -4,6 +4,7 @@
         "DEFAULT" : "RU",
         "ALTERNATIVE" : ["EN"],
         "PROTECTION_KEY" : " ",
+        "LOGO" : "/img/Mp46d3d6afe0084fcf530b03d1f4427e516a1cb4ec542640bcbc84c2c4b4f53c13.png",
         "RU" : {
             "name": "Monster Node",
             "sites": {
@@ -27,7 +28,22 @@
             "description": "The first public masternode of the Minter network by the Monster's Club community."
         }
     },
-    "Mp629b5528f09d1c74a83d18414f2e4263e14850c47a3fac3f855f200111111111" : {"name":"ONLY1"},
+"Mp97274708f88e9744e71406bfffd30f11531f96ae15f3fa55c6473903db3adb10" : {
+        "name":"Black Hole",
+        "DEFAULT" : "RU",
+        "ALTERNATIVE" : ["EN"],
+        "PROTECTION_KEY" : " ",
+        "LOGO" : "/img/Mp97274708f88e9744e71406bfffd30f11531f96ae15f3fa55c6473903db3adb10.png",
+        "RU" : {
+            "name": "Black Hole",
+            "description": "Галактическая аномалия."
+        },
+        "EN" : {
+            "name": "Black Hole",
+            "description": "Galactic anomaly."
+        }
+    },
+"Mp629b5528f09d1c74a83d18414f2e4263e14850c47a3fac3f855f200111111111" : {"name":"ONLY1"},
 "Mpaaaaa16ebd6af229b4cfc02c3ab40bd25c1051c3aa2120f07d08c1bd01777777" : {"name":"Minter One"},
 "Mp4881ad167ca5fb5886322841f992d68aed894ffcb58abc080e8ad3b156f1045b" : {"name":"Minter Center 1%"},
 "Mpadeb65fa666a4a8e033d20c1a48d09b3f024eb8756da7f7a21e0932582222222" : {"name":"Mother Minter"},

@@ -28,7 +28,7 @@
             "description": "The first public masternode of the Minter network by the Monster's Club community."
         }
     },
-"Mp97274708f88e9744e71406bfffd30f11531f96ae15f3fa55c6473903db3adb10" : {
+    "Mp97274708f88e9744e71406bfffd30f11531f96ae15f3fa55c6473903db3adb10" : {
         "name":"Black Hole",
         "DEFAULT" : "RU",
         "ALTERNATIVE" : ["EN"],
@@ -43,40 +43,40 @@
             "description": "Galactic anomaly."
         }
     },
-"Mp629b5528f09d1c74a83d18414f2e4263e14850c47a3fac3f855f200111111111" : {
-    "name":"ONLY1"
-    "DEFAULT" : "EN",
-    "EN" : {
-        "name": "ONLY1",
-        "description": "Make Minter Great Again."
-         "sites": {
+    "Mp629b5528f09d1c74a83d18414f2e4263e14850c47a3fac3f855f200111111111" : {
+        "name":"ONLY1"
+        "DEFAULT" : "EN",
+        "EN" : {
+            "name": "ONLY1",
+            "sites": {
                 "web2" :"https://t.me/only1_ru"
-        },
-        "contacts": {
-            "telegram": "@only1_ru",
-        },
-    }
-},
-"Mpaaaaa16ebd6af229b4cfc02c3ab40bd25c1051c3aa2120f07d08c1bd01777777" : {
-    "name":"Minter One",
-    "DEFAULT" : "EN",
-    "EN" : {
-        "name": "Minter One",
-        "description": "First Minter Network validator — high stability, reliable infrastructure, guarantee of safety of funds."
-        "sites": {
+            },
+            "contacts": {
+                "telegram": "@only1_ru"
+            },
+            "description": "Make Minter Great Again."
+        }
+    },
+    "Mpaaaaa16ebd6af229b4cfc02c3ab40bd25c1051c3aa2120f07d08c1bd01777777" : {
+        "name":"Minter One",
+        "DEFAULT" : "EN",
+        "EN" : {
+            "name": "Minter One",
+            "sites": {
                 "web2" :"https://minter.one"
-        },
-    }
-},
+            },
+            "description": "First Minter Network validator — high stability, reliable infrastructure, guarantee of safety of funds."
+        }
+    },
 "Mp4881ad167ca5fb5886322841f992d68aed894ffcb58abc080e8ad3b156f1045b" : {
     "name":"Minter Center 1%",
     "DEFAULT" : "EN",
     "EN" : {
         "name": "Minter Center 1%",
-        "description": "Delegate you BIP to hightech masternode. Our hardware is located in reliable data centers and connected to the main Minter traffic exchange points of 10G channels. Join stability."
         "sites": {
                 "web2" :"https://minter.center/"
         },
+        "description": "Delegate you BIP to hightech masternode. Our hardware is located in reliable data centers and connected to the main Minter traffic exchange points of 10G channels. Join stability."
     }
 },
 "Mpadeb65fa666a4a8e033d20c1a48d09b3f024eb8756da7f7a21e0932582222222" : {
@@ -84,10 +84,10 @@
     "DEFAULT" : "EN",
     "EN" : {
         "name": "Mother Minter",
-        "description": "Validator of Minter network with a focus on Minter integration and supporting startup projects within the network."
         "sites": {
                 "web2" :"https://motherminter.org/"
         },
+        "description": "Validator of Minter network with a focus on Minter integration and supporting startup projects within the network."
     }
 },
 "Mpfe176f944623a8ca9f409a62f0ea3ca75c1cf8d89970adf9384fc9ae8d77fa0b" : {"name":"MinterPro"},

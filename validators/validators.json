@@ -57,39 +57,9 @@
             "description": "Make Minter Great Again."
         }
     },
-    "Mpaaaaa16ebd6af229b4cfc02c3ab40bd25c1051c3aa2120f07d08c1bd01777777" : {
-        "name":"Minter One",
-        "DEFAULT" : "EN",
-        "EN" : {
-            "name": "Minter One",
-            "sites": {
-                "web2" :"https://minter.one"
-            },
-            "description": "First Minter Network validator — high stability, reliable infrastructure, guarantee of safety of funds."
-        }
-    },
-"Mp4881ad167ca5fb5886322841f992d68aed894ffcb58abc080e8ad3b156f1045b" : {
-    "name":"Minter Center 1%",
-    "DEFAULT" : "EN",
-    "EN" : {
-        "name": "Minter Center 1%",
-        "sites": {
-                "web2" :"https://minter.center/"
-        },
-        "description": "Delegate you BIP to hightech masternode. Our hardware is located in reliable data centers and connected to the main Minter traffic exchange points of 10G channels. Join stability."
-    }
-},
-"Mpadeb65fa666a4a8e033d20c1a48d09b3f024eb8756da7f7a21e0932582222222" : {
-    "name":"Mother Minter",
-    "DEFAULT" : "EN",
-    "EN" : {
-        "name": "Mother Minter",
-        "sites": {
-                "web2" :"https://motherminter.org/"
-        },
-        "description": "Validator of Minter network with a focus on Minter integration and supporting startup projects within the network."
-    }
-},
+"Mpaaaaa16ebd6af229b4cfc02c3ab40bd25c1051c3aa2120f07d08c1bd01777777" : {"name":"Minter One"},
+"Mp4881ad167ca5fb5886322841f992d68aed894ffcb58abc080e8ad3b156f1045b" : {"name":"Minter Center 1%"},
+"Mpadeb65fa666a4a8e033d20c1a48d09b3f024eb8756da7f7a21e0932582222222" : {"name":"Mother Minter"},
 "Mpfe176f944623a8ca9f409a62f0ea3ca75c1cf8d89970adf9384fc9ae8d77fa0b" : {"name":"MinterPro"},
 "Mp01cc99ae5a349ecaeef187dcbb12816bf2b3d8eae80f654034b21213aa445b2c" : {"name":"Interstake One"},
 "Mp120c15e48aed0ac866a1a918bd367cfa31909a6b09f328a18bd18f32edef2be8" : {"name":"MinterPro 2.0"},

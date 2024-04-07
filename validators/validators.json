@@ -44,7 +44,7 @@
         }
     },
     "Mp629b5528f09d1c74a83d18414f2e4263e14850c47a3fac3f855f200111111111" : {
-        "name":"ONLY1"
+        "name":"ONLY1",
         "DEFAULT" : "EN",
         "EN" : {
             "name": "ONLY1",

@@ -48,12 +48,6 @@
         "DEFAULT" : "EN",
         "EN" : {
             "name": "ONLY1",
-            "sites": {
-                "web2" :"https://t.me/only1_ru"
-            },
-            "contacts": {
-                "telegram": "@only1_ru"
-            },
             "description": "Make Minter Great Again."
         }
     },

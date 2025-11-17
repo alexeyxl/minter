@@ -4,7 +4,7 @@
         "default" : "RU",
         "alternative" : ["EN"],
         "protection_key" : " ",
-        "logo" : "/img/Mp46d3d6afe0084fcf530b03d1f4427e516a1cb4ec542640bcbc84c2c4b4f53c13.png",
+        "logo" : true,
 		"sites": {
 			"web2" :"https://mnst.club"
 		},
@@ -26,7 +26,7 @@
 		"default" : "RU",
 		"alternative" : ["EN"],
 		"protection_key" : " ",
-		"logo" : "/img/Mp97274708f88e9744e71406bfffd30f11531f96ae15f3fa55c6473903db3adb10.png",
+		"logo" : true,
 		"RU" : {
 			"name": "Black Hole",
 			"description": "Галактическая аномалия."
@@ -41,7 +41,7 @@
 		"default" : "RU",
 		"alternative" : ["EN"],
 		"protection_key" : " ",
-		"logo" : "/img/Mpd7a9eae76d3e98145b6b897c00c407b42ae8c42f937527ebdcd0239a4d88c0a5.png",
+		"logo" : true,
 		"sites": {
 			"web2" :"https://mnst.club"
 		},
@@ -63,7 +63,7 @@
 		"default" : "RU",
 		"alternative" : ["EN"],
 		"protection_key" : " ",
-		"logo" : "/img/Mp83d44bdc43d39df6fba726cdfea81444fcd07b1e1cb9caf61835a4f31031fe9d.png",
+		"logo" : false,
 		"RU" : {
 			"name": "1%",
 			"description": "Один процент и точка."
@@ -78,7 +78,7 @@
 		"default" : "RU",
 		"alternative" : ["EN"],
 		"protection_key" : " ",
-		"logo" : "/img/Mpa7e2f3a60e905c4838d719f5cfa39a40398d72e1159fba467775cfc2c9ed0075.png",
+		"logo" : false,
 		"contacts": {
 			"telegram": "@FARMING_MINTER_CHANNEL"
         },
@@ -96,7 +96,7 @@
 		"default" : "RU",
 		"alternative" : ["EN"],
 		"protection_key" : " ",
-		"logo" : "/img/Mp08e009843820c2883f22faa63885d18fd1bdfa6feed90bf6a2d89ea6fc120e95.png",
+		"logo" : false,
 		"contacts": {
 			"telegram": "@farming_minter_channel"
         },
